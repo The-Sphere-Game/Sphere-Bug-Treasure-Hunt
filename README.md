@@ -8,7 +8,7 @@ We need you! Our Spherian Bounty Hunters to hunt for these bugs. Successfully id
 
 On a serious note, we are looking for people to help us identify bugs and be rewarded ORBs and NFTs. Thank you in advance for reporting.
 
-Please create an issue and be as descriptive as possible as to where and how the bug if triggered. Very vague descriptions with no easy way to trigger the bug will have less chance of being fixed and rewarded.
+Please create an issue (under the ISSUES tab) and be as descriptive as possible as to where and how the bug if triggered. Very vague descriptions with no easy way to trigger the bug will have less chance of being fixed and rewarded.
 
 Happy Bug Hunting!
 
