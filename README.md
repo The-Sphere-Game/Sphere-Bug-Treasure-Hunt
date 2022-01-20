@@ -10,6 +10,8 @@ On a serious note, we are looking for people to help us identify bugs and be rew
 
 Please create an issue (under the ISSUES tab) and be as descriptive as possible as to where and how the bug if triggered. Very vague descriptions with no easy way to trigger the bug will have less chance of being fixed and rewarded.
 
+For best chance of rewards please submit as much details about your device, username, TG ID, browser, settings and so on. Your TG ID Can be found by messaging this bot on Telegram: @tg_id_bot
+
 Happy Bug Hunting!
 
 - Enter The Sphere Metaverse Team
